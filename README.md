@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# react-todo-list
+Simple to do list app built with react
+
+#### How to run ?
+1. Download zip or clone repo
+2. Install dependencies by running (npm install)
+3. Run (npm start) to start
+
+#### Features
+- User can add items by typing in textfield and clicking submit
+- User can delete item by clicking on the 'X' at the edge of the to do item
 
 ## Available Scripts
 
